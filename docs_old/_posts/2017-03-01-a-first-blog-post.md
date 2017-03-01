@@ -1,0 +1,3 @@
+# A First Blog Post
+
+This had to be written some day ...
