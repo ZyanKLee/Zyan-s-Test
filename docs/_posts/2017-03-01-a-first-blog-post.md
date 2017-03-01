@@ -1,5 +1,5 @@
 ---
-layout: post
+#layout: post
 title:  "A First Blog Post"
 date:   2017-03-01 22:12:37 +0100
 categories: github pages
